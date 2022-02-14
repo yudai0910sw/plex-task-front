@@ -15,7 +15,7 @@ $ git clone git@github.com:YUDAI0910/kadai-front.git
 
 2. next.jsの動作に必要なnode_modulesをインストール
 ```
-$ cd projec-front
+$ cd kadai-front
 $ npm install
 ```
 
@@ -26,7 +26,7 @@ $ npm run dev
 ```
 
 4. アプリのページを開く
-[http://localhost:8080/](http://localhost:3080/)にアクセスしてください。  
+[http://localhost:8080/](http://localhost:8080/)にアクセスしてください。  
 バックエンド側が正常に起動できていればアプリの動作を確認できます。
 
 # 苦労した点
