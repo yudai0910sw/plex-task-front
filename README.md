@@ -21,7 +21,7 @@ $ npm install
 ```
 
 3. プロジェクトの実行  
-※apiとは別のターミナルを開いて実行
+※[API側](https://github.com/yudai0910sw/plex-task-api)とは別のターミナルを開いて実行
 ```
 $ npm run dev
 ```
